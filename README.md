@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel David
+- 👋 Hi, I’m Emmanuel David an intermediate React developer.
 - 👀 I’m interested in any stuff that's innovative and cool.
 - 🌱 I’m currently learning Machine learning.
 - 📫 Reach me at emmanueldavid1320@gmail.com !!
