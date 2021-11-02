@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Emmanuel David
-- 👀 I’m interested in software engineering currently...but ambitious on entering
-      research and development field in computer science
-- 🌱 I’m currently learning Next js frame-work
+- 👀 I’m interested in any stuff that's innovative and cool.
+- 🌱 I’m currently learning Machine learning.
 - 📫 Reach me at emmanueldavid1320@gmail.com !!
 
 <!---
