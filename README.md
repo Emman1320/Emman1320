@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Emmanuel David an intermediate React developer.
+- 👋 Hi, I’m Emmanuel David an aspiring full-stack developer.
 - 👀 I’m interested in any stuff that's innovative and cool.
 - 📫 Reach me at emmanueldavid1320@gmail.com !!
 
